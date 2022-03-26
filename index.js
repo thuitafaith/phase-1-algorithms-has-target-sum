@@ -1,13 +1,20 @@
 function hasTargetSum(array, target) {
   // Write your algorithm here
+
 }
 
 /* 
   Write the Big O time complexity of your function here
+  O(n)
 */
 
 /* 
   Add your pseudocode here
+  take 2 numbers in the array
+    sum them up and compare the result to the target
+      if they match
+        return true
+
 */
 
 /*
